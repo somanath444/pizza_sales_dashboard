@@ -1,0 +1,18 @@
+chart requirments:
+
+1. Daily Trends for Total Orders
+2. Monthly Trend for Total Orders
+3.Percentage of sales by pizza category.
+4.percentage of sales by pizza size
+5. Total pizzas sold by pizza category
+6. Top 5 best sellers by revenue, total quantity, and total orders
+7. Bottom 5 best sellers by revenue, total quantity, and total orders.
+
+
+kpi's requirment:
+
+1. total revenue
+2. average order value
+3. total pizzas sold
+4. total orders
+5. average pizzas per order
